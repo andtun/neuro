@@ -104,6 +104,6 @@ venv.bak/
 .mypy_cache/
 
 # misc
-.png
-.gif
-.h5
+*.png
+*.gif
+*.h5
